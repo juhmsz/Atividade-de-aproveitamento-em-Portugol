@@ -1,0 +1,26 @@
+Algoritmo "MelhorNota"
+
+Var
+   QA, contagem: inteiro
+   MN, nota: real
+   nome, MNome: caractere
+Inicio
+   Escreva ("Quantos alunos tem na sala? ")
+   Leia (QA)
+   contagem <- 1
+   Enquanto (contagem <= QA) faca
+      EscrevaL ("________________")
+      EscrevaL ("ALUNO", contagem)
+      Escreva ("Nome do aluno: ")
+      Leia (nome)
+      Escreva ("Nota de ", nome,": ")
+      Leia (nota)
+      Se (nota > MN) entao
+         MN <- nota
+         MNome <- nome
+      FimSe
+      contagem <- contagem + 1
+   FimEnquanto
+   EscrevaL ("________________")
+   Escreva ("O melhor aproveitamento foi de ", MNome, " com a nota de ", MN)
+Fimalgoritmo
