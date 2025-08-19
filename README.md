@@ -10,9 +10,9 @@
 </div>
 
 > Essa atividade foi desenvolvida durante o "Curso de Algoritmo" do professor Gustavo Guanabara na plataforma Curso em Vídeo.
-> Tal atividade contribiuiu no processo de aquisição da lógica de programação que é fundamental para qualquer desenvolvedor.
+> Ela contribiuiu no processo de aquisição da lógica de programação que é fundamental para qualquer desenvolvedor.
 
-## Habilidades
+<h2>Habilidades</h2>
 
 Os seguintes conceitos foram desenvolvidos durante a elaboração da atividade presente:
 1. "Escreva" = Imprimi as informações inseridas na tela
